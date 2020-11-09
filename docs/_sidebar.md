@@ -1,0 +1,6 @@
+- Info
+    - [Home](/ "Home")
+    - [Rules](/rules.md "Rules")
+- Links
+    - [Forum](https://forum.fortressmc.cf/ "Forum")
+    - [Discord](https://discord.fortressmc.cf/ "Discord")

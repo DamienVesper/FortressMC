@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>FortressMC</title>
+        <meta name="description" content="The official website of FortressMC, a geopolitical Earth server.">
+
+        <meta property="og:title" content="FortressMC">
+        <meta property="og:description" content="The official website of FortressMC, a geopolitical Earth server.">
+
+        <link rel="shortcut icon" href="/images/logo.png">
+        <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+        <style>
+            .bold-fade-in {
+                animation: fade-in 1.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
+                -webkit-animation: fade-in 1.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
+                -moz-animation: fade-in 1.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
+            }
+            @keyframes fade-in {
+                0% { opacity: 0; }
+                100% { opacity: 1; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="app"></div>
+        <script>
+            window.$docsify = {
+                homepage: `welcome.md`,
+                name: `FortressMC`,
+                loadSidebar: true,
+                loadFooter: true,
+                coverpage: true,
+                logo: `/images/logo.png`
+            }
+        </script>
+        <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+    </body>
+</html>
