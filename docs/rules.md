@@ -9,7 +9,7 @@
     Make everyone feel welcome. Do not try to make others feel uncomfortable and shut-out. Hate speech and NSFW are strictly prohibited.
 
 # Staff Rules
-    Be responsible with the pwoer you are given.
+    Be responsible with the power you are given.
     Do not spawn in items and / or money for players.
     Abuse of privileges will result in these privileges being taken away.
 
