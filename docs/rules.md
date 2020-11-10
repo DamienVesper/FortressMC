@@ -1,12 +1,8 @@
 # Server Rules
-1. **No Advertising**
-    Advertising is classified as any promotion of any brand not affiliated with FortressMC. This rule is enforced across all forms of media of or relating to FortressMC.
-2. **No Spamming**
-    Spamming is classified as sending the same message several times consecutively, or obstructing the readability of the chat.
-3. **Do not argue with staff.**
-    Do not argue with staff, period. If you have an issue that needs to be resolved, create a ticket. Punishments of you or another user may not be publicly spoken of.
-4. **Be excellent to each other.**
-    Make everyone feel welcome. Do not try to make others feel uncomfortable and shut-out. Hate speech and NSFW are strictly prohibited.
+    No Advertising
+    No Spamming
+    Do not argue with staff.
+    Be excellent to each other.
 
 # Staff Rules
     Be responsible with the power you are given.
