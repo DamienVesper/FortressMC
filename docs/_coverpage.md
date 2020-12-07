@@ -1,4 +1,4 @@
-<h1 id="bold-fade-in">Welcome to FlatEarthMC!</h1>
+<h1 id="bold-fade-in">Welcome to FortressMC!</h1>
 
 > We are a geopolitical Towny server with mcMMO, Jobs, War, and More!
 
