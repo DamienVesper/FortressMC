@@ -1,2 +1,0 @@
-# FortressMC-Website
-FortressMC

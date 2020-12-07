@@ -1,5 +1,7 @@
-<h1 class="bold-fade-in">Welcome to FortressMC!</h1>
+<h1 id="bold-fade-in">Welcome to FlatEarthMC!</h1>
 
-> We are a geopolitical Minecraft server.
+> We are a geopolitical Towny server with mcMMO, Jobs, War, and More!
 
-**Take a look around in our community! You can join our [Discord](https://discord.fortressmc.cf) for more!**
+**Explore, join a town, and more in this ​community oriented geopolitical earth replica.**
+
+![coverpage](images/coverpage.png)

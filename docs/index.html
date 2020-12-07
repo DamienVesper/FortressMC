@@ -1,39 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  <meta charset="UTF-8">
+  <title>FortressMC</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="The official website of FortressMC (Also known as FMC)! We are a geopolitical earth Towny Minecraft Server (Java 1.16.4) with a live Dynmap. We also have an Economy, mcMMO, and more. Our main map is a replica of the Earth's surface. Join now to rebuild civilization on a blank canvas!">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
 
-        <title>FortressMC</title>
-        <meta name="description" content="The official website of FortressMC, a geopolitical Earth server.">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <style>
+    #bold-fade-in {
+	    -webkit-animation: fade-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+	    animation: fade-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+      font-weight: bold;
+    }
+    @-webkit-keyframes fade-in {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+    @keyframes fade-in {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+  </style>
 
-        <meta property="og:title" content="FortressMC">
-        <meta property="og:description" content="The official website of FortressMC, a geopolitical Earth server.">
-
-        <link rel="shortcut icon" href="/images/logo.png">
-        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" type="text/css">
-    </head>
-    <body>
-        <div id="app">We are building something special for you...</div>
-        <script>
-            window.$docsify = {
-                search: `auto`,
-                search: [`/`],
-                auto2top: true,
-                homepage: `welcome.md`,
-                name: `FortressMC`,
-                loadSidebar: true,
-                loadFooter: true,
-                coverpage: true,
-                logo: `/images/logo.png`
-            }
-        </script>
-        <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
-    </body>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      homepage: 'welcome.md',
+      name: 'FortressMC',
+      loadSidebar: true,
+      loadFooter: true,
+      coverpage: true,
+      logo: '/images/logo.png'
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+</body>
 </html>
