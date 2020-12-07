@@ -2,7 +2,7 @@
 
 ### Is there a dynmap?
 
-Yes, we do have a dynmap, and it is available at [map.flatearthmc.net](https://map.flatearthmc.net/)
+Yes, we do have a dynmap, and it is available at [map.fortressmc.cf](https://map.fortressmc.cf/)
 
 ### Is the server PTW?
 
